@@ -36,5 +36,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br>
 
-Apaixonado por Tecnologia💓
+Apaixonado == Tecnologia💓
   

@@ -6,11 +6,6 @@
   <a href = "mailto:limaeduardo092@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-lima-0611a7253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div><br>
-
-  ![Edudelimasilva573 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&theme=blue-green)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">

@@ -5,19 +5,6 @@
   <a href="https://instagram.com/edudelimasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:limaeduardo092@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-lima-0611a7253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<picture>
- <br>
-<source> 
-  srcset="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&langs_count=8)](https://github.com/Ededelimasilva573/github-readme-stats)
-</picture>
   </div>
 </p>
 ## 📊 Github stats
@@ -34,20 +21,11 @@
   </a>
 </p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Edudelimasilva573&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="https://wakatime.com/@Edudelimasilva573"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=Edudelimasilva573&layout=compact&hide_border=true&theme=tokyonight" /></a>
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Edudelimasilva573&theme=apprentice">
-  </a>
-</p>
+
 
 <a href="https://github.com/Edudelimasilva573#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Edudelimasilva573&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />

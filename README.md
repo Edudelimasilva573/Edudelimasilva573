@@ -15,7 +15,7 @@
 </a>
   </div>
 </p>
-## 📊 Github stats
+ <h3>📊 Github stats</h3>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -31,7 +31,7 @@
 
 </p>
   <br>
-## Tecnologias que eu uso no meu dia
+<h3>Tecnologias que eu uso no meu dia</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

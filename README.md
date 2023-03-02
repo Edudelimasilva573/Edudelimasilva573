@@ -25,12 +25,11 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Edudelimasilva573#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Edudelimasilva573&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
-
   <br>
 ## Tecnologias que eu uso no meu dia
 

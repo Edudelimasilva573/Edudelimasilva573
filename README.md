@@ -19,6 +19,10 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
   </div>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edudelima573&theme=tokyonight" alt="Edudelimasilva573's github stats" /></a>
+</p>
   <br>
 ## Tecnologias que eu uso no meu dia
 

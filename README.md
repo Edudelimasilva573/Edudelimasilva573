@@ -4,7 +4,14 @@
  <div>
   <a href="https://instagram.com/edudelimasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:limaeduardo092@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-lima-0611a7253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-lima-0611a7253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Edudelimasilva573#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Edudelimasilva573&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
   </div>
 </p>
 ## 📊 Github stats
@@ -22,14 +29,6 @@
 </p>
 
 </p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/Edudelimasilva573#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Edudelimasilva573&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
   <br>
 ## Tecnologias que eu uso no meu dia
 

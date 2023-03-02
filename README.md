@@ -16,8 +16,10 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
-  </div><br>
+  </div>
+  <br>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">

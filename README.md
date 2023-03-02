@@ -50,12 +50,9 @@
 </p>
 
 <a href="https://github.com/Edudelimasilva573#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Edudelimasilva573&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/Edudelimasilva573#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</a>
   <br>
 ## Tecnologias que eu uso no meu dia
 

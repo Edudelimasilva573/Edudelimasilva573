@@ -1,5 +1,6 @@
 ## Olá sou Eduardo Lima 👋
-
+<p>Bem vindo ao meu perfil do GitHub!</p>
+Sou Estudante de Front-End
 
  <div>
   <a href="https://instagram.com/edudelimasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,13 +9,7 @@
  <p><bh>
  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Edudelimasilva573#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Edudelimasilva573&repo=Edudelimasilva573&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-</a>
-  </div>
-</p>
  <h3>📊 Github stats</h3>
 
 <p align="center">
@@ -22,8 +17,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edudelimasilva573's streak" src="https://streak-stats.demolab.com/?user=Edudelimasilva573&theme=onedark&hide_border=true"/>
   </a>
-</p>
-
 </p>
   <br>
 <h3>Tecnologias que eu uso no meu dia</h3>

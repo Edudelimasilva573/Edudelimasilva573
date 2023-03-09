@@ -12,9 +12,18 @@
 
  <h3>📊 Github stats</h3>
 
-<p align="center">
-  <a href="https://github.com/Edudelimasilva573/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Edudelimasilva573&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Edudelimasilva573's github stats" /></a>
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true&theme=chartreuse-dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true" />
+</picture>
+  
   </a>
 </p>
   <br>

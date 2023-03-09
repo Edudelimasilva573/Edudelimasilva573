@@ -23,6 +23,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true" />
 </picture>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&layout=compact)](https://github.com/Edudelimasilva573/github-readme-stats)
   
   </a>
 </p>

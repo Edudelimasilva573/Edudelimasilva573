@@ -14,8 +14,7 @@ Sou Estudante de Front-End
 
 <p align="center">
   <a href="https://github.com/Edudelimasilva573/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=Edudelimasilva573&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="Edudelimasilva573's github stats" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Edudelimasilva573's streak" src="https://streak-stats.demolab.com/?user=Edudelimasilva573&theme=onedark&hide_border=true"/>
+
   </a>
 </p>
   <br>
@@ -27,10 +26,9 @@ Sou Estudante de Front-End
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
 </div><br>
  
 
-Apaixonado == Tecnologia💓
+ <h3>Viciado em Tecnologia!</h3>
   

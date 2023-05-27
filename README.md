@@ -22,15 +22,12 @@
   <br>
 <h4>Tecnologias que eu uso no meu dia</h4>
 
-<div style="display: inline_block">
- 
- <h2>Linguagens e Frameworks</h2>
-
- <img src=https://progress-bar.dev/80?title=HTML />
- <img src=https://progress-bar.dev/80?title=CSS />
- <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
- <img src=https://progress-bar.dev/85?title=ANGULAR  />
-</div>
+  <h2>Linguagens e Frameworks</h2>
+  <img src=https://progress-bar.dev/80?title=HTML />
+  <img src=https://progress-bar.dev/80?title=CSS />
+  <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
+  <img src=https://progress-bar.dev/80?title=BOOTSTRAP  />
+   <img src=https://progress-bar.dev/85?title=ANGULAR  />
 
  <br>
  <h4>Viciado em Tecnologia!</h4>

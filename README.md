@@ -11,20 +11,14 @@
 
 
  <h3>📊 Github stats</h3>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true&theme=chartreuse-dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Edudelimasilva573&show_icons=true" />
-</picture>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edudelimasilva573&layout=compact)](https://github.com/Edudelimasilva573/github-readme-stats) </a>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edudelimasilva573&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudelimasilva573&layout=compact&theme=radical"/>
+</div>
+<br>
+<div align="center">
+<img width="70%" height="70%"  src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
+</div>
 </p>
   <br>
 <h4>Tecnologias que eu uso no meu dia</h4>

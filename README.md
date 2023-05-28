@@ -1,5 +1,5 @@
 <h1><h1>Olá galera! Sejam bem-vindos ao meu perfil! Sou Eduardo Lima <br>👋</h1>
-<h2>Sou Programadora Front-End</h2>
+<h2>Sou Programador Front-End</h2>
 
  <div>
   <a href="https://instagram.com/edudelimasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
